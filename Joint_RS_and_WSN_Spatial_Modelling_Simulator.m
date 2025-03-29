@@ -20,7 +20,7 @@ MA =10;                                                         % moving average
 dyn_end = 300;                                               % total temporal instances
 Step = 0.001;                                                  % amount of Gaussian center shifts in temporal (for x and y)
 % =================================================================
-%     Spatial Modelling using Wireless Sensing
+%     Spatial Modelling using Remote Sening Data
 % =================================================================
 % memory allocation for the used blocks
 Sensors = zeros(L,4);
